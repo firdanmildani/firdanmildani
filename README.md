@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Firdan Mildani and I'm a QA Engineer</p>
+<p align="left">My name is Firdan Mildani and I'm a QA Engineer & Frontedn Developer</p>
 
 ###
 
