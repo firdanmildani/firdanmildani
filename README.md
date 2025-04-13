@@ -21,7 +21,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-plain.svg](https://camo.githubusercontent.com/6b8ca60875f934485168f0182744628ba40df6315b18c00a1dc5e01764892156/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6f6666656e736976652d766b2f49636f6e73406d61737465722f706c61797772696768742f706c61797772696768742d6f726967696e616c2e737667" height="40" alt="playwright logo"  />
+  <img src="https://camo.githubusercontent.com/6b8ca60875f934485168f0182744628ba40df6315b18c00a1dc5e01764892156/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f6f6666656e736976652d766b2f49636f6e73406d61737465722f706c61797772696768742f706c61797772696768742d6f726967696e616c2e737667" height="40" alt="playwright logo"  />
   
 </div>
 
