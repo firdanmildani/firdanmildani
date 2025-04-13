@@ -11,7 +11,7 @@
 ###
 
 <div align="left">
-  <img src="https://static.cdnlogo.com/logos/h/90/html-5.svg" height="40" alt="html logo"  />
+  <img src="https://static.cdnlogo.com/logos/h/84/html.svg" height="40" alt="html logo"  />
   <img width="12" />
   <img src="https://static.cdnlogo.com/logos/c/18/css.svg" height="40" alt="css logo"  />
   <img width="12" />
